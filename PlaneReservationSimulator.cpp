@@ -1,4 +1,4 @@
-//Project Name: Angeles_Project2
+//Project Name: PlaneReservationSimulator.cpp
 //Author Name: Alfonso Angeles 
 //Date Created: 12/9/18 
 //Last Edited by: Alfonso Angeles
