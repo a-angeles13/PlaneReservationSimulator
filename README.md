@@ -1,0 +1,2 @@
+# PlaneReservationSimulator
+Plane Reservation Simulator allows for a user to log in and view available seats through a display in the output terminal. The user can perform a number of actions including making reservations, canceling reservations, asking for assistance with the use of the program, request statistics about the flight, and save the current seating chart to a text file. This project is coded in C++ and is interfaced through the output terminal. 
