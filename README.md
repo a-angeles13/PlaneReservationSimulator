@@ -8,15 +8,25 @@ systemUser.txt
 statistics.txt 
 
 chartIn should have the following text (Note "X" denotes a taken seat):
+
 1	A	B	C	D	E	F
+
 2	A	B	C	D	E	F
+
 3	A	B	C	D	E	F
+
 4	A	B	C	D	E	F
+
 5	A	B	C	D	E	F
+
 6	A	B	C	D	E	F
+
 7	A	B	C	D	E	F
+
 8	A	B	C	D	E	F
+
 9	A	B	C	D	E	F
+
 10	A	B	C	D	E	F
 
 updateChart.txt is a file you wish to print the current seating chart next to (it is defined by user input and therefore can have a different name if desired"). 
